@@ -516,7 +516,7 @@ section#about p {color: #fff;}
 section#about img {vertical-align:middle;}
 
 section#about-dark {background-position: center center;background-repeat: no-repeat;-webkit-background-size: cover;-moz-background-size: cover;background-size: cover;-o-background-size: cover;}
-section#about-dark .section-heading,section#about-dark .section-subheading {color: #1c1e21;padding-top:30px;}
+section#about-dark .section-heading,section#about-dark .section-subheading {color: #1c1e21;padding-top:-300px;}
 section#about-dark p {color: #1c1e21;}
 section#about-dark img {vertical-align:middle;}
 

@@ -11,7 +11,7 @@ p {font-size: 16px;line-height: 1.75;}
 a, a:hover, a:focus, a:active, a.active {outline: 0;}
 a {color: #4AA8D3;}
 a:hover, a:focus, a:active, a.active {color: #3f90b5;}
-h1, h2, h3, h4, h5, h6 {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight:300;}
+h1, h2, h3, h4, h5, h6 {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight:300;}
 .img-centered {margin: 0 auto;}
 ::-moz-selection {text-shadow: none;background: #dceef6;}
 ::selection {text-shadow: none;background: #dceef6;}
@@ -136,35 +136,35 @@ Buttons
 .btn{border-radius:0;}
 .btn:focus,.btn:active,.btn.active,.btn:active:focus{outline:0}
 /* Primary Button */
-.btn-primary{border-color:#4AA8D3;text-transform:uppercase;font-family: 'Dosis', sans-serif;font-weight:400;color:#4AA8D3;background-color:transparent}
+.btn-primary{border-color:#4AA8D3;text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-weight:400;color:#4AA8D3;background-color:transparent}
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{border-color:#4AA8D3;color:#fff;background-color:#4AA8D3}
 .btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{background-image:none}
 .btn-primary.disabled,.btn-primary[disabled],fieldset[disabled] .btn-primary,.btn-primary.disabled:hover,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary:hover,.btn-primary.disabled:focus,.btn-primary[disabled]:focus,fieldset[disabled] .btn-primary:focus,.btn-primary.disabled:active,.btn-primary[disabled]:active,fieldset[disabled] .btn-primary:active,.btn-primary.disabled.active,.btn-primary[disabled].active,fieldset[disabled] .btn-primary.active{border-color:#4AA8D3;background-color:#4AA8D3}
 .btn-primary .badge{color:#4AA8D3;background-color:#fff}
 
 /* Larger Button */
-.btn-larger{padding:15px 35px;margin-bottom:10px;border-color:#4AA8D3;border-radius:0;text-transform:uppercase;font-family: 'Dosis', sans-serif;font-size:21px;font-weight:500;color:#4AA8D3;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
+.btn-larger{padding:15px 35px;margin-bottom:10px;border-color:#4AA8D3;border-radius:0;text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-size:21px;font-weight:500;color:#4AA8D3;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
 .btn-larger:hover,.btn-larger:focus,.btn-larger:active,.btn-larger.active,.open .dropdown-toggle.btn-larger{border-color:#3f90b5;color:#fff;background-color:#3f90b5}
 .btn-larger:active,.btn-larger.active,.open .dropdown-toggle.btn-larger{background-image:none}
 .btn-larger.disabled,.btn-larger[disabled],fieldset[disabled] .btn-larger,.btn-larger.disabled:hover,.btn-larger[disabled]:hover,fieldset[disabled] .btn-larger:hover,.btn-larger.disabled:focus,.btn-larger[disabled]:focus,fieldset[disabled] .btn-larger:focus,.btn-larger.disabled:active,.btn-larger[disabled]:active,fieldset[disabled] .btn-larger:active,.btn-larger.disabled.active,.btn-larger[disabled].active,fieldset[disabled] .btn-larger.active{border-color:#4AA8D3;background-color:#4AA8D3}
 .btn-larger .badge{color:#4AA8D3;background-color:#fff}
 
 /* Blue Button Small */
-.btn-blue-sm{padding:10px 25px;margin-bottom:10px;border-color:#4AA8D3;border-radius:0;text-transform:uppercase;font-family: 'Dosis', sans-serif;font-size:16px;font-weight:500;color:#4AA8D3;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
+.btn-blue-sm{padding:10px 25px;margin-bottom:10px;border-color:#4AA8D3;border-radius:0;text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-size:16px;font-weight:500;color:#4AA8D3;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
 .btn-blue-sm:hover,.btn-blue-sm:focus,.btn-blue-sm:active,.btn-blue-sm.active,.open .dropdown-toggle.btn-blue-sm{border-color:#4AA8D3;color:#fff;background-color:#4AA8D3}
 .btn-blue-sm:active,.btn-blue-sm.active,.open .dropdown-toggle.btn-blue-sm{background-image:none}
 .btn-blue-sm.disabled,.btn-blue-sm[disabled],fieldset[disabled] .btn-blue-sm,.btn-blue-sm.disabled:hover,.btn-blue-sm[disabled]:hover,fieldset[disabled] .btn-blue-sm:hover,.btn-blue-sm.disabled:focus,.btn-blue-sm[disabled]:focus,fieldset[disabled] .btn-blue-sm:focus,.btn-blue-sm.disabled:active,.btn-blue-sm[disabled]:active,fieldset[disabled] .btn-blue-sm:active,.btn-blue-sm.disabled.active,.btn-blue-sm[disabled].active,fieldset[disabled] .btn-blue-sm.active{border-color:#4AA8D3;background-color:#4AA8D3}
 .btn-blue-sm .badge{color:#4AA8D3;background-color:#fff}
 
 /* White Button Small */
-.btn-white-sm{padding:10px 25px;margin-bottom:10px;border-color:#FFF;border-radius:0;text-transform:uppercase;font-family: 'Dosis', sans-serif;;font-size:16px;font-weight:300;color:#FFF;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
+.btn-white-sm{padding:10px 25px;margin-bottom:10px;border-color:#FFF;border-radius:0;text-transform:uppercase;font-family: 'Rockwell', sans-serif;;font-size:16px;font-weight:300;color:#FFF;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
 .btn-white-sm:hover,.btn-white-sm:focus,.btn-white-sm:active,.btn-white-sm.active,.open .dropdown-toggle.btn-white-sm{border-color:#FFF;color:#4AA8D3;background-color:#FFF}
 .btn-white-sm:active,.btn-white-sm.active,.open .dropdown-toggle.btn-white-sm{background-image:none}
 .btn-white-sm.disabled,.btn-white-sm[disabled],fieldset[disabled] .btn-white-sm,.btn-white-sm.disabled:hover,.btn-white-sm[disabled]:hover,fieldset[disabled] .btn-white-sm:hover,.btn-white-sm.disabled:focus,.btn-white-sm[disabled]:focus,fieldset[disabled] .btn-white-sm:focus,.btn-white-sm.disabled:active,.btn-white-sm[disabled]:active,fieldset[disabled] .btn-white-sm:active,.btn-white-sm.disabled.active,.btn-white-sm[disabled].active,fieldset[disabled] .btn-white-sm.active{border-color:#FFF;background-color:#FFF}
 .btn-white-sm .badge{color:#FFF;background-color:#4AA8D3}
 
 /* Dark Button Small */
-.btn-dark-sm{padding:10px 25px;margin-bottom:10px;border-color:#1c1e21;border-radius:0;text-transform:uppercase;font-family: 'Dosis', sans-serif;;font-size:16px;font-weight:300;color:#1c1e21;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
+.btn-dark-sm{padding:10px 25px;margin-bottom:10px;border-color:#1c1e21;border-radius:0;text-transform:uppercase;font-family: 'Rockwell', sans-serif;;font-size:16px;font-weight:300;color:#1c1e21;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
 .btn-dark-sm:hover,.btn-dark-sm:focus,.btn-dark-sm:active,.btn-dark-sm.active,.open .dropdown-toggle.btn-dark-sm{border-color:#FFF;color:#4AA8D3;background-color:#1c1e21}
 .btn-dark-sm:active,.btn-dark-sm.active,.open .dropdown-toggle.btn-dark-sm{background-image:none}
 .btn-dark-sm.disabled,.btn-dark-sm[disabled],fieldset[disabled] .btn-dark-sm,.btn-dark-sm.disabled:hover,.btn-dark-sm[disabled]:hover,fieldset[disabled] .btn-dark-sm:hover,.btn-dark-sm.disabled:focus,.btn-dark-sm[disabled]:focus,fieldset[disabled] .btn-dark-sm:focus,.btn-dark-sm.disabled:active,.btn-dark-sm[disabled]:active,fieldset[disabled] .btn-dark-sm:active,.btn-dark-sm.disabled.active,.btn-dark-sm[disabled].active,fieldset[disabled] .btn-dark-sm.active{border-color:#4AA8D3;background-color:#1c1e21}
@@ -172,7 +172,7 @@ Buttons
 
 
 /* Blue Button Small Blog */
-.btn-blue-sm-blog{padding:10px 25px;border-color:#4AA8D3;border-radius:0;margin-bottom:10px;text-transform:uppercase;font-family: 'Dosis', sans-serif;font-size:16px;font-weight:500;color:#4AA8D3;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
+.btn-blue-sm-blog{padding:10px 25px;border-color:#4AA8D3;border-radius:0;margin-bottom:10px;text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-size:16px;font-weight:500;color:#4AA8D3;background-color:transparent;border:2px solid;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
 .btn-blue-sm-blog:hover,.btn-blue-sm-blog:focus,.btn-blue-sm-blog:active,.btn-blue-sm-blog.active,.open .dropdown-toggle.btn-blue-sm-blog{border-color:#4AA8D3;color:#fff;background-color:#4AA8D3}
 .btn-blue-sm-blog:active,.btn-blue-sm-blog.active,.open .dropdown-toggle.btn-blue-sm-blog{background-image:none}
 .btn-blue-sm-blog.disabled,.btn-blue-sm-blog[disabled],fieldset[disabled] .btn-blue-sm-blog,.btn-blue-sm-blog.disabled:hover,.btn-blue-sm-blog[disabled]:hover,fieldset[disabled] .btn-blue-sm-blog:hover,.btn-blue-sm-blog.disabled:focus,.btn-blue-sm-blog[disabled]:focus,fieldset[disabled] .btn-blue-sm-blog:focus,.btn-blue-sm-blog.disabled:active,.btn-blue-sm-blog[disabled]:active,fieldset[disabled] .btn-blue-sm-blog:active,.btn-blue-sm-blog.disabled.active,.btn-blue-sm-blog[disabled].active,fieldset[disabled] .btn-blue-sm-blog.active{border-color:#4AA8D3;background-color:#4AA8D3}
@@ -182,19 +182,19 @@ Buttons
 /*********  
 Circular Buttons (Added as an option if you are not keen on rectangular ones)
 *********/
-.btn-blue-sm-circular{padding:10px 25px;border-color:#4AA8D3;border-radius:0;margin-bottom:10px;text-transform:uppercase;font-family: 'Dosis', sans-serif;font-size:16px;font-weight:500;color:#4AA8D3;background-color:transparent;border:2px solid;border-radius:50px;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
+.btn-blue-sm-circular{padding:10px 25px;border-color:#4AA8D3;border-radius:0;margin-bottom:10px;text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-size:16px;font-weight:500;color:#4AA8D3;background-color:transparent;border:2px solid;border-radius:50px;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
 .btn-blue-sm-circular:hover,.btn-blue-sm-circular:focus,.btn-blue-sm-circular:active,.btn-blue-sm-circular.active,.open .dropdown-toggle.btn-blue-sm-circular{border-color:#4AA8D3;color:#fff;background-color:#4AA8D3}
 .btn-blue-sm-circular:active,.btn-blue-sm-circular.active,.open .dropdown-toggle.btn-blue-sm-circular{background-image:none}
 .btn-blue-sm-circular.disabled,.btn-blue-sm-circular[disabled],fieldset[disabled] .btn-blue-sm-circular,.btn-blue-sm-circular.disabled:hover,.btn-blue-sm-circular[disabled]:hover,fieldset[disabled] .btn-blue-sm-circular:hover,.btn-blue-sm-circular.disabled:focus,.btn-blue-sm-circular[disabled]:focus,fieldset[disabled] .btn-blue-sm-circular:focus,.btn-blue-sm-circular.disabled:active,.btn-blue-sm-circular[disabled]:active,fieldset[disabled] .btn-blue-sm-circular:active,.btn-blue-sm-circular.disabled.active,.btn-blue-sm-circular[disabled].active,fieldset[disabled] .btn-blue-sm-circular.active{border-color:#4AA8D3;background-color:#4AA8D3}
 .btn-blue-sm-circular .badge{color:#4AA8D3;background-color:#fff}
 
-.btn-white-sm-circular{padding:10px 25px;border-color:#FFF;border-radius:0;margin-bottom:10px;text-transform:uppercase;font-family: 'Dosis', sans-serif;font-size:16px;font-weight:300;color:#FFF;background-color:transparent;border:2px solid;border-radius:50px;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
+.btn-white-sm-circular{padding:10px 25px;border-color:#FFF;border-radius:0;margin-bottom:10px;text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-size:16px;font-weight:300;color:#FFF;background-color:transparent;border:2px solid;border-radius:50px;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
 .btn-white-sm-circular:hover,.btn-white-sm-circular:focus,.btn-white-sm-circular:active,.btn-white-sm-circular.active,.open .dropdown-toggle.btn-white-sm-circular{border-color:#FFF;color:#4AA8D3;background-color:#FFF}
 .btn-white-sm-circular:active,.btn-white-sm-circular.active,.open .dropdown-toggle.btn-white-sm-circular{background-image:none}
 .btn-white-sm-circular.disabled,.btn-white-sm-circular[disabled],fieldset[disabled] .btn-white-sm-circular,.btn-white-sm-circular.disabled:hover,.btn-white-sm-circular[disabled]:hover,fieldset[disabled] .btn-white-sm-circular:hover,.btn-white-sm-circular.disabled:focus,.btn-white-sm-circular[disabled]:focus,fieldset[disabled] .btn-white-sm-circular:focus,.btn-white-sm-circular.disabled:active,.btn-white-sm-circular[disabled]:active,fieldset[disabled] .btn-white-sm-circular:active,.btn-white-sm-circular.disabled.active,.btn-white-sm-circular[disabled].active,fieldset[disabled] .btn-white-sm-circular.active{border-color:#FFF;background-color:#FFF}
 .btn-white-sm-circular .badge{color:#FFF;background-color:#4AA8D3}
 
-.btn-dark-sm-circular{padding:10px 25px;border-color:#1c1e21;border-radius:0;margin-bottom:10px;text-transform:uppercase;font-family: 'Dosis', sans-serif;font-size:16px;font-weight:300;color:#1c1e21;background-color:transparent;border:2px solid;border-radius:50px;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
+.btn-dark-sm-circular{padding:10px 25px;border-color:#1c1e21;border-radius:0;margin-bottom:10px;text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-size:16px;font-weight:300;color:#1c1e21;background-color:transparent;border:2px solid;border-radius:50px;-webkit-transition:all .6s;-moz-transition:all .6s;transition:all .6s}
 .btn-dark-sm-circular:hover,.btn-dark-sm-circular:focus,.btn-dark-sm-circular:active,.btn-dark-sm-circular.active,.open .dropdown-toggle.btn-dark-sm-circular{border-color:#1c1e21;color:#4AA8D3;background-color:#1c1e21}
 .btn-dark-sm-circular:active,.btn-dark-sm-circular.active,.open .dropdown-toggle.btn-dark-sm-circular{background-image:none}
 .btn-dark-sm-circular.disabled,.btn-dark-sm-circular[disabled],fieldset[disabled] .btn-dark-sm-circular,.btn-dark-sm-circular.disabled:hover,.btn-dark-sm-circular[disabled]:hover,fieldset[disabled] .btn-dark-sm-circular:hover,.btn-dark-sm-circular.disabled:focus,.btn-dark-sm-circular[disabled]:focus,fieldset[disabled] .btn-dark-sm-circular:focus,.btn-dark-sm-circular.disabled:active,.btn-dark-sm-circular[disabled]:active,fieldset[disabled] .btn-dark-sm-circular:active,.btn-dark-sm-circular.disabled.active,.btn-dark-sm-circular[disabled].active,fieldset[disabled] .btn-dark-sm-circular.active{border-color:#1c1e21;background-color:#1c1e21;color:#4AA8D3;}
@@ -209,13 +209,13 @@ Navigation
 
 /* Dark Navigation */
 #darknav.navbar-default{border-color:transparent;background-color:#1c1e21}
-#darknav.navbar-default .navbar-brand{font-family: 'Dosis', sans-serif;color:#4AA8D3}
+#darknav.navbar-default .navbar-brand{font-family: 'Rockwell', sans-serif;color:#4AA8D3}
 #darknav.navbar-default .navbar-brand:hover,#darknav.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active{color:#3f90b5}
 #darknav.navbar-default .navbar-collapse{border-color:rgba(255,255,255,.02)}
 #darknav.navbar-default .navbar-toggle{border-color:transparent;background-color:transparent}
 #darknav.navbar-default .navbar-toggle .icon-bar{background-color:#fff}
 #darknav.navbar-default .navbar-toggle:hover,#darknav.navbar-default .navbar-toggle:focus{background-color:transparent}
-#darknav.navbar-default .nav li a{text-transform:uppercase;font-family: 'Dosis', sans-serif;font-weight:400;letter-spacing:1px;color:#fff}
+#darknav.navbar-default .nav li a{text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-weight:400;letter-spacing:1px;color:#fff}
 #darknav.navbar-default .nav li a:hover,#darknav.navbar-default .nav li a:focus{outline:0;color:#4AA8D3}
 #darknav.navbar-default .navbar-nav>.active>a{border-radius:0;color:#4AA8D3;background-color:transparent}
 #darknav.navbar-default .navbar-nav>.active>a:hover,#darknav.navbar-default .navbar-nav>.active>a:focus{color:#4AA8D3;background-color:transparent}
@@ -239,13 +239,13 @@ Navigation
 	
 /* Light Navigation */
 #lightnav.navbar-default{border-color:transparent;background-color:rgba(249,249,249,1);}
-#lightnav.navbar-default .navbar-brand{font-family: 'Dosis', sans-serif;color:#4AA8D3}
+#lightnav.navbar-default .navbar-brand{font-family: 'Rockwell', sans-serif;color:#4AA8D3}
 #lightnav.navbar-default .navbar-brand:hover,#lightnav.navbar-default .navbar-brand:focus,.navbar-default .navbar-brand:active,.navbar-default .navbar-brand.active{color:#3f90b5}
 #lightnav.navbar-default .navbar-collapse{border-color:rgba(249,249,249,.1)}
 #lightnav.navbar-default .navbar-toggle{border-color:transparent;background-color:transparent}
 #lightnav.navbar-default .navbar-toggle .icon-bar{background-color:#1c1e21}
 #lightnav.navbar-default .navbar-toggle:hover,#lightnav.navbar-default .navbar-toggle:focus{background-color:transparent}
-#lightnav.navbar-default .nav li a{text-transform:uppercase;font-family: 'Dosis', sans-serif;font-weight:400;letter-spacing:1px;color:#1c1e21}
+#lightnav.navbar-default .nav li a{text-transform:uppercase;font-family: 'Rockwell', sans-serif;font-weight:400;letter-spacing:1px;color:#1c1e21}
 #lightnav.navbar-default .nav li a:hover,#lightnav.navbar-default .nav li a:focus{outline:0;color:#4AA8D3}
 #lightnav.navbar-default .navbar-nav>.active>a{border-radius:0;color:#4AA8D3;background-color:transparent}
 #lightnav.navbar-default .navbar-nav>.active>a:hover,#lightnav.navbar-default .navbar-nav>.active>a:focus{color:#4AA8D3;background-color:transparent}
@@ -430,7 +430,7 @@ Section Global Styles
 *********/
 section {padding: 100px 0;}
 section h2.section-heading {margin-top: 0;margin-bottom: 15px;font-size: 24px;}
-section h3.section-subheading {margin-bottom: 15px;text-transform: none;font-family: 'Dosis', sans-serif;font-size: 16px;font-weight: 400;}
+section h3.section-subheading {margin-bottom: 15px;text-transform: none;font-family: 'Rockwell', sans-serif;font-size: 16px;font-weight: 400;}
 
 @media(min-width:768px) {
 section {padding: 150px 0;}
@@ -582,10 +582,10 @@ section#contact .form-group input.form-control {height: auto;background-color: r
 section#contact .form-control {border-radius: 0;box-shadow:none;}
 section#contact .form-group textarea.form-control {height: 242px;background-color: rgba(230, 246, 253, 0.1);border:1px solid #efefef;box-shadow:none;}
 section#contact  .form-group  .form-control:focus {border:1px solid #4AA8D3;border-color: #4AA8D3;box-shadow: none;rgba(50, 50, 50, 0.5);-webkit-transition: all 1s;-moz-transition: all 1s;transition: all 1s;}
-section#contact::-webkit-input-placeholder {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight: 700;color: #bbb;}
-section#contact:-moz-placeholder {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight: 700;color: #bbb;}
-section#contact::-moz-placeholder {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight: 700;color: #bbb;}
-section#contact:-ms-input-placeholder {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight: 700;color: #bbb;}
+section#contact::-webkit-input-placeholder {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight: 700;color: #bbb;}
+section#contact:-moz-placeholder {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight: 700;color: #bbb;}
+section#contact::-moz-placeholder {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight: 700;color: #bbb;}
+section#contact:-ms-input-placeholder {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight: 700;color: #bbb;}
 section#contact .text-danger {color: #4AA8D3;}
 
 /* Section contact-2 */
@@ -620,8 +620,8 @@ section#map .embed-responsive-16by9{padding:10%}
 Footer 
 *********/
 footer {padding: 15px 0; text-align:center}
-footer span.copyright {text-transform: uppercase;text-transform: none;font-family: 'Dosis', sans-serif;line-height: 40px;font-weight: 400}
-footer ul.quicklinks {margin-bottom: 0;text-transform: uppercase;text-transform: none;font-family: 'Dosis', sans-serif;line-height: 40px;font-weight: 600}
+footer span.copyright {text-transform: uppercase;text-transform: none;font-family: 'Rockwell', sans-serif;line-height: 40px;font-weight: 400}
+footer ul.quicklinks {margin-bottom: 0;text-transform: uppercase;text-transform: none;font-family: 'Rockwell', sans-serif;line-height: 40px;font-weight: 600}
 footer ul.quicklinks li a {color: #1c1e21; margin-bottom:10px;}
 footer ul.quicklinks li a:hover, footer ul.quicklinks li a:focus, footer ul.quicklinks li a:active {}
 footer ul.social-buttons {margin-bottom: 0;}
@@ -630,8 +630,8 @@ footer ul.social-buttons li a:hover, footer ul.social-buttons li a:focus, footer
 
 /* Section Big */
 footer#big {padding: 15px 0; text-align:center}
-footer#big span.copyright {text-transform: uppercase;text-transform: none;font-family: 'Dosis', sans-serif;line-height: 40px;font-weight: 400}
-footer#big ul.quicklinks {margin-bottom: 0;text-transform: uppercase;text-transform: none;font-family: 'Dosis', sans-serif;line-height: 40px;font-weight: 600}
+footer#big span.copyright {text-transform: uppercase;text-transform: none;font-family: 'Rockwell', sans-serif;line-height: 40px;font-weight: 400}
+footer#big ul.quicklinks {margin-bottom: 0;text-transform: uppercase;text-transform: none;font-family: 'Rockwell', sans-serif;line-height: 40px;font-weight: 600}
 footer#big ul.quicklinks li a {color: #1c1e21; margin-bottom:10px;}
 footer#big ul.quicklinks li a:hover, footer#big ul.quicklinks li a:focus, footer#big ul.quicklinks li a:active {}
 footer#big ul.social-buttons {margin-bottom: 0;}
@@ -640,8 +640,8 @@ footer#big ul.social-buttons li a:hover, footer#big ul.social-buttons li a:focus
 
 /* Section Dark */
 footer#dark {color:#FFF}
-footer#dark span.copyright {text-transform: uppercase;text-transform: none;font-family: 'Dosis', sans-serif;line-height: 40px;font-weight: 400}
-footer#dark ul.quicklinks {margin-bottom: 0;text-transform: uppercase;text-transform: none;font-family: 'Dosis', sans-serif;line-height: 40px;font-weight: 600}
+footer#dark span.copyright {text-transform: uppercase;text-transform: none;font-family: 'Rockwell', sans-serif;line-height: 40px;font-weight: 400}
+footer#dark ul.quicklinks {margin-bottom: 0;text-transform: uppercase;text-transform: none;font-family: 'Rockwell', sans-serif;line-height: 40px;font-weight: 600}
 footer#dark ul.quicklinks li a {color: #FFF; margin-bottom:10px;}
 footer#dark ul.quicklinks li a:hover, footer#dark ul.quicklinks li a:focus, footer#dark ul.quicklinks li a:active {}
 footer#dark ul.social-buttons {margin-bottom: 0;text-align:center}
@@ -665,7 +665,7 @@ Portfolio Modals
 .portfolio-modal{padding-right:0!important}
 .portfolio-modal .modal-content h2{margin-bottom:15px;font-size:3em}
 .portfolio-modal .modal-content p{margin-bottom:30px}
-.portfolio-modal .modal-content p.item-intro{margin:20px 0 30px;font-family: 'Dosis', sans-serif;font-size:16px;font-style:italic}
+.portfolio-modal .modal-content p.item-intro{margin:20px 0 30px;font-family: 'Rockwell', sans-serif;font-size:16px;font-style:italic}
 .portfolio-modal .modal-content ul.list-inline{margin-top:0;margin-bottom:30px}
 .portfolio-modal .modal-content img{margin-bottom:30px}
 .portfolio-modal .close-modal{position:absolute;top:10px;right:0;width:75px;height:75px;background-color:transparent;cursor:pointer}
@@ -841,10 +841,10 @@ section#newsletter .form-group input.form-control {height: auto;background-color
 section#newsletter .form-control {border-radius: 0;border: 2px solid #fff;}
 section#newsletter .form-group textarea.form-control {height: 242px;background-color: rgba(28, 30, 30, 0.1);color: #1c1e21;}
 section#newsletter .form-control:focus {border-color: #4AA8D3;box-shadow: none;}
-section#newsletter::-webkit-input-placeholder {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight: 700;color: #bbb;}
-section#newsletter:-moz-placeholder {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight: 700;color: #bbb;}
-section#newsletter::-moz-placeholder {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight: 700; color: #bbb;}
-section#newsletter:-ms-input-placeholder {text-transform: uppercase;font-family: 'Dosis', sans-serif;font-weight: 700;color: #bbb;}
+section#newsletter::-webkit-input-placeholder {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight: 700;color: #bbb;}
+section#newsletter:-moz-placeholder {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight: 700;color: #bbb;}
+section#newsletter::-moz-placeholder {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight: 700; color: #bbb;}
+section#newsletter:-ms-input-placeholder {text-transform: uppercase;font-family: 'Rockwell', sans-serif;font-weight: 700;color: #bbb;}
 section#newsletter .text-danger {color: #4AA8D3;}
 
 
@@ -884,7 +884,7 @@ Blog Styles
 .post-wrapper{padding:50px 0}
 .post-wrapper h2 > a{color:#686b6f;font-weight:300}
 .post-wrapper h2 >a:hover,.post-wrapper h2 >a:focus{text-decoration:none;color:#1c1e21}
-.post-wrapper h2 >a>.post-title{font-size:32px;font-weight:300;text-transform:uppercase;margin-top:30px;margin-bottom:10px;font-family: 'Dosis', sans-serif;letter-spacing:1px}
+.post-wrapper h2 >a>.post-title{font-size:32px;font-weight:300;text-transform:uppercase;margin-top:30px;margin-bottom:10px;font-family: 'Rockwell', sans-serif;letter-spacing:1px}
 .post-subtitle{margin:0;font-weight:500;margin-bottom:30px;text-transform:none;font-size:18px;line-height:32px}
 .post-wrapper>a>.post-image{margin:30px 0;overflow:hidden;}
 .post-wrapper>.post-image{margin:30px 0;overflow:hidden;}
@@ -929,7 +929,7 @@ Blog Styles
 /* Post Blockquote */
 blockquote{padding:0 20px;margin:0 0 20px;letter-spacing:1px;border-left:1px solid #4AA8D3}
 blockquote p{font-size:34px;letter-spacing:1px;font-family:'Just Another Hand',cursive;line-height:1;font-weight:300}
-blockquote span{clear:both;margin-top:30px;color:#4AA8D3;font-family: 'Dosis', sans-serif;font-size:16px;text-transform:uppercase}
+blockquote span{clear:both;margin-top:30px;color:#4AA8D3;font-family: 'Rockwell', sans-serif;font-size:16px;text-transform:uppercase}
 
 /* Post Tags */
 .post-wrapper .tags{margin:30px 0}

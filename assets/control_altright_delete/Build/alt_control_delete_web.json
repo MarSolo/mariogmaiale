@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "alt_control_delete_web.data.unityweb",
+"asmCodeUrl": "alt_control_delete_web.asm.code.unityweb",
+"asmMemoryUrl": "alt_control_delete_web.asm.memory.unityweb",
+"asmFrameworkUrl": "alt_control_delete_web.asm.framework.unityweb",
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}

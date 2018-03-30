@@ -8,6 +8,7 @@
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "alt_control_delete_web.jpg",
 "splashScreenStyle": "Light",
-"backgroundColor": "#828080"
+"backgroundColor": "#FFFFFF"
 }

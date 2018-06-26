@@ -1,0 +1,14 @@
+{
+"companyName": "BoatHouse Interactive",
+"productName": "Breaking News",
+"dataUrl": "breaking_news_web.data.unityweb",
+"asmCodeUrl": "breaking_news_web.asm.code.unityweb",
+"asmMemoryUrl": "breaking_news_web.asm.memory.unityweb",
+"asmFrameworkUrl": "breaking_news_web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "breaking_news_web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}

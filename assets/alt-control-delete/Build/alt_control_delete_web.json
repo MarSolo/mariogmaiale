@@ -1,0 +1,14 @@
+{
+"companyName": "Mar Solo",
+"productName": "control-alt-right-delete",
+"dataUrl": "alt_control_delete_web.data.unityweb",
+"asmCodeUrl": "alt_control_delete_web.asm.code.unityweb",
+"asmMemoryUrl": "alt_control_delete_web.asm.memory.unityweb",
+"asmFrameworkUrl": "alt_control_delete_web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "alt_control_delete_web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
